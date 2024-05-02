@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { a1, a2, a3, a4, a5, a6, bvir, grm, istanbulCity, luqmoniHakim } from "../../../assets/img/img";
+import { a1, a2, a3, a4, a5, a6, bvir, bviradmin, grm, istanbulCity, luqmoniHakim } from "../../../assets/img/img";
 import { Tittle } from "../About/About";
 import Card from "./Card";
 
@@ -80,7 +80,7 @@ export default function Works() {
               <Card img={a6} link={"https://cosmetika.netlify.app"} />
               <Card img={luqmoniHakim} link={"https://luqmonihakim.netlify.app/"} />
               <Card img={bvir} link={"https://agroxizmatlar.uz/"} />
-              <Card img={a3} link={"https://admin.agroxizmatlar.uz/"} />
+              <Card img={bviradmin} link={"https://admin.agroxizmatlar.uz/"} />
               <Card img={istanbulCity} link={"https://istanbul-city.netlify.app/"} />
               <Card
                 img={grm}

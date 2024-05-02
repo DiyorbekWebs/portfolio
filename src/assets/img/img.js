@@ -14,6 +14,7 @@ const me2 = require("./me2.jpg");
 const luqmoniHakim = require("./luqmoniHakim.png");
 const istanbulCity = require("./istanbulCity.png");
 const bvir = require("./bvir.jpg");
+const bviradmin = require("./adminBvir.jpg");
 const grm = require("./grm.png");
 
 export {
@@ -34,4 +35,5 @@ export {
   istanbulCity,
   bvir,
   grm,
+  bviradmin
 };
